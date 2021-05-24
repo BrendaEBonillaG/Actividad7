@@ -1,4 +1,3 @@
-//Rehacer poniendo 100 en lugar de entradas por scanner.
 
 import static java.lang.Math.*;
 import java.util.Scanner;
